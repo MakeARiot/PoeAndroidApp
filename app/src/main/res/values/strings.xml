@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">poeTest</string>
+    <string name="left_btn">&lt;-</string>
+    <string name="right_btn">-&gt;</string>
+</resources>
